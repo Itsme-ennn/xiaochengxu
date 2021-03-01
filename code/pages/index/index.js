@@ -14,6 +14,8 @@ Page({
    */
   onLoad: function (options) {
     this.getSwiperList();
+
+    
     this.getCatItems();
     this.getFloorData();
   },
